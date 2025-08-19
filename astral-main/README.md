@@ -1,5 +1,5 @@
 # Astral Engine
-Astral Engine was developed on 05/08/25 by Celeste Softworks © 2025, Features include:
+Astral was developed on 05/08/25 by Celeste Softworks © 2025, Features include:
 * Modeling Engine
 * Lighting Engine
 * Particles
