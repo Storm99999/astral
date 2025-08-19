@@ -29,10 +29,7 @@ Astral is written in Lua, and is compatible only with __PC__ hardware
 </div>
 
 ## Getting started
-* Recommended to compile from source, however if you are lazy, just use prebuilt binaries in the releases tab. (https://github.com/Storm99999/sphere/releases)
-* Extract
-* Read the README before running the exe 
-* Profit!
+* Get the rbxl
 
 ## Issues
 Got issues? https://discord.gg/pfhacX3ZPY is there to help! Join and ask around.
