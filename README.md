@@ -1,6 +1,5 @@
 <div align="center">
 
-<sup>Sphere</sup>
 <img width="525" height="475" alt="ETHEREAL" src="https://github.com/user-attachments/assets/15976d55-3b26-4d53-8686-2ee53f0e668c" />
 
 <a href="https://discord.gg/pfhacX3ZPY">
@@ -9,7 +8,7 @@
 
   </div>
   <b>
-    Sphere is next gen macro software for fortnite built in C# & HTML.
+    Astral is a next-gen physic and lighting engine built on Lua and Roblox Studio
     
   </b>
   <div>
@@ -19,14 +18,13 @@
 
 <hr />
 
-# Sphere
+# Astral
 
 [![Github All Releases](https://img.shields.io/github/downloads/Storm99999/sphere/total.svg)]()
-Sphere, the next gen macro software for fortnite.
+__Astral__ — an integrative, next-generation computational architecture for unified, multi-modal physic simulation and spectrally-resolved photonic radiance transport, designed to transcend conventional real-time rendering paradigms through adaptive spatiotemporal dynamics and perceptually-driven illumination synthesis.
 
-Prefire, Recoil Control (RCS) & Edit Macros all in one executable<br />
-Sphere is written in C#, and should be compatible with all devices.
-
+Assets, Physics & Lighting all in one __Engine__ <br />
+Astral is written in Lua, and is compatible only with __PC__ hardware
 
 </div>
 
@@ -37,4 +35,4 @@ Sphere is written in C#, and should be compatible with all devices.
 * Profit!
 
 ## Issues
-Got issues? https://discord.gg/nT9mrC2T is there to help! Join and ask around.
+Got issues? https://discord.gg/pfhacX3ZPY is there to help! Join and ask around.
